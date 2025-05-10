@@ -3,4 +3,3 @@ qrcode
 opencv-python
 Pillow
 numpy
-cv2
